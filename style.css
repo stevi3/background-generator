@@ -1,0 +1,33 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background: linear-gradient(to right, red, blue);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: snow;
+    text-shadow: 3px 3px black;
+    opacity: 0.6;
+    padding: 2em;
+    margin: 2px;
+}
+
+#colorInputs{
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+}
+
+h3, p{
+    display: flex;
+    justify-content: center;
+    color: snow;
+    text-shadow: 3px 3px black;
+    opacity: 0.6;
+    margin: 2px;
+}
+
+p{
+    font-size: 15px;
+}
